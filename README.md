@@ -1,4 +1,4 @@
-# 分布式秒杀系统
+# 分布式秒杀系统    https://blog.52itstyle.com/archives/2894/
 
 ## 开发环境
 
