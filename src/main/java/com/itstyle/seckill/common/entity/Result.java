@@ -2,6 +2,8 @@ package com.itstyle.seckill.common.entity;
 
 import java.util.HashMap;
 import java.util.Map;
+
+
 /**
  * 页面响应entity
  * 创建者 张志朋
